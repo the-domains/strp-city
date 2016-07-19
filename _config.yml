@@ -1,20 +1,20 @@
-color:
-  saturation: 0.6144755
-  brandStrength: 0.853741
-  rhythmicContrast: 0.6016998
-  lightness: 0.8477352
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-layout_spectrum: 0.0001812405
 typography_spectrum: 0.3452623
+color:
+  saturation: 0.6144755
+  brandStrength: 0.853741
+  rhythmicContrast: 0.6016998
+  lightness: 0.8477352
+layout_spectrum: 0.9833512
 name: STRP CITY
