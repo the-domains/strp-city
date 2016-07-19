@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3452623
 color:
   saturation: 1
   lightness: 1
@@ -22,5 +21,6 @@ color:
     - '#FF3F59'
     - '#FFF773'
   rhythmicContrast: 1
+typography_spectrum: 0.3958109
 layout_spectrum: 0.9833512
 name: STRP CITY
