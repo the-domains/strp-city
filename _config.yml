@@ -12,9 +12,15 @@ collections:
       number: 10
 typography_spectrum: 0.3452623
 color:
-  saturation: 0.6144755
+  saturation: 1
+  lightness: 1
   brandStrength: 0.853741
-  rhythmicContrast: 0.6016998
-  lightness: 0.8477352
+  brandColors:
+    - '#510208'
+    - '#FE012F'
+    - '#FF9A5F'
+    - '#FF3F59'
+    - '#FFF773'
+  rhythmicContrast: 1
 layout_spectrum: 0.9833512
 name: STRP CITY
