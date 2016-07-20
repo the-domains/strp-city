@@ -1,8 +1,25 @@
+typography_spectrum: 0
+color:
+  saturation: 0.2224801739212126
+  brandStrength: 0.4666069250088185
+  rhythmicContrast: 0.4512314123567194
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  lightness: 0.946596757741645
+layout_spectrum: 0.9810136565938592
 author:
   name: Jorge Alves Lino
   email: jorge@strp.nl
   url: ''
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5e58247-df86-49c3-bfaf-14aaad221aef.png
 name: STRP CITY
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e57c7d75-3dfb-4e91-8609-c5dc4a533763.png
 collections:
   - index:
       path: /
@@ -15,20 +32,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5e58247-df86-49c3-bfaf-14aaad221aef.png
-color:
-  saturation: 0.2224801739212126
-  brandStrength: 0.4666069250088185
-  rhythmicContrast: 0.4512314123567194
-  brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
-  lightness: 0.946596757741645
-typography_spectrum: 0
-layout_spectrum: 0.9810136565938592
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e57c7d75-3dfb-4e91-8609-c5dc4a533763.png
