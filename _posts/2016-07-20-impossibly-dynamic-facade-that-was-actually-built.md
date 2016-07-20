@@ -5,8 +5,8 @@ description: >-
   design. The façade features elements inspired by the traditional Islamic
   lattice shading system, Mashrabiya, which is completely computerized to adjust
   to changing weather conditions.
-dateModified: '2016-07-20T14:13:30.738Z'
-datePublished: '2016-07-20T14:13:31.438Z'
+dateModified: '2016-07-20T14:13:38.745Z'
+datePublished: '2016-07-20T14:13:39.176Z'
 title: World Dynamic Façades
 author: []
 isBasedOnUrl: >-
