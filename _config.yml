@@ -1,16 +1,16 @@
-typography_spectrum: 0.3958109
+typography_spectrum: 0.63772790459916
 color:
-  saturation: 1
-  lightness: 1
-  brandStrength: 0.853741
+  saturation: 0.22248017392121255
+  lightness: 0.946596757741645
+  brandStrength: 0.4666069250088185
   brandColors:
-    - '#510208'
-    - '#FE012F'
-    - '#FF9A5F'
-    - '#FF3F59'
-    - '#FFF773'
-  rhythmicContrast: 1
-layout_spectrum: 0.9833512
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  rhythmicContrast: 0.4512314123567194
+layout_spectrum: 0.9810136565938592
 author:
   name: Jorge Alves Lino
   email: jorge@strp.nl
