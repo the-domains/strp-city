@@ -5,9 +5,9 @@ description: >-
   design. The façade features elements inspired by the traditional Islamic
   lattice shading system, Mashrabiya, which is completely computerized to adjust
   to changing weather conditions.
-dateModified: '2016-07-20T14:11:11.480Z'
-datePublished: '2016-07-20T14:11:11.994Z'
-title: Dynamic Façades
+dateModified: '2016-07-20T14:13:22.496Z'
+datePublished: '2016-07-20T14:13:23.525Z'
+title: World Dynamic Façades
 author: []
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd6312b-fe8e-44c0-a782-a837a6492695.jpg
@@ -19,7 +19,7 @@ inNav: false
 _type: MediaObject
 
 ---
-# Dynamic Façades
+# World Dynamic Façades
 ![Al Bahr Towers, by Aedas Architects, 2012, Abu Dhabi, United Arab Emirates](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fd6312b-fe8e-44c0-a782-a837a6492695.jpg)
 
 Clad with a unique dynamic shading system meant to reduce the buildings' solar gain by 50%, [Aedas][0]' Al Bahr Towers manage to test the limits of responsive design. The façade features elements inspired by the traditional Islamic lattice shading system, Mashrabiya, which is completely computerized to adjust to changing weather conditions.
